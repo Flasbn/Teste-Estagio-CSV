@@ -1,5 +1,7 @@
 # Teste Estagiário
 
+O teste não trouxe o resultado pedido, então tentei trazer de uma forma manual.
+
 Rest API
 
 Realizar uma conversão para um arquivo CSV com a quantidade de estados por região.
